@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ialiras
 - 👀 I’m interested in Performance testing and engineering 
 - 🌱 I’m currently learning database tuning 
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaboration 
 - 📫 Reach me https://www.linkedin.com/in/irfan-ali-siddiqui-a01b5694
 
 <!---
